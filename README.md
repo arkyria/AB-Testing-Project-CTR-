@@ -1,3 +1,3 @@
-A/B Test for Click to Rate
-analyse the data on what are the reasons a customer might churn
-create a model to predict whether or not a customer will chu
+%B A/B Test for Click to Rate
+* Examine Hypothesis testing probability Errors (Type I and II)
+* Compare experimental and control data groups for accepting or rejecting the original Hypotheis
